@@ -1,0 +1,35 @@
+@charset "UTF-8";
+.clubs{
+	width:100%;
+    float: left;
+    text-align: center;
+}
+a{
+	text-decoration:none;
+	color:black;
+}
+.clubs table{
+	width:100%;
+}
+.clubs img{
+	float: left;
+    width: 100%;
+    height: 140px;
+}
+.clubs table th{
+	width:33%;
+	height: 50px;
+	
+}
+.clubs table td{
+	width:33%;
+}
+.clubs .cname a:hover{
+	color:brown;
+	font-weight:900;
+	
+}
+.clubs .operate a:hover{
+	color:brown;
+	font-weight:900;
+}
